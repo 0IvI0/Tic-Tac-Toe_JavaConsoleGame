@@ -16,3 +16,8 @@
 
   - Goal: To mark three fields that are direct neighbours (in a row, column or diagonal).
   - When all 9 fields are marked, the game is over. If there is no winner, the game ends in a DRAW / TIE.
+
+  **Example output:**
+  (Note: Not all steps are depicted below.)
+
+  ![TicTacToe output example](/screenshots/tictactoe_gameplay.jpg)
