@@ -1,5 +1,6 @@
-# Tic-Tac-Toe_JavaConsoleGame
-TIC TAC TOE as text based Java console game
+# TIC TAC TOE as text based Java console game
+
+**Game specifications:**
 
 Game specifications:
 
@@ -10,9 +11,9 @@ Game specifications:
   - The player has to specify the selected field by typing a letter (a, b or c) and a number (1, 2 or 3) on the command line.
   
     See the valid coordinates:
-                                a3  b3  c3
-                                a2  b2  c2
-                                a1  b1  c1
+                                a3 | b3 | c3
+                                a2 | b2 | c2
+                                a1 | b1 | c1
 
   - Goal: To mark three fields that are direct neighbours (in a row, column or diagonal).
   - When all 9 fields are marked, the game is over. If there is no winner, the game ends in a DRAW / TIE.
